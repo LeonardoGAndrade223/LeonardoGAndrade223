@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋👍, eu sou o Leonardo!</h1>
 
-<!--
-**LeonardoGAndrade223/LeonardoGAndrade223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Cursando Técnico em Desenvolvimento de Sistemas - SENAI <br>
+  👨‍💻 Desenvolvendo projetos em Python | Portugol | PHP
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mim
+
+- 🎯 Focado em desenvolvimento FullStack
+
+---
+
+### 🤖 Tecnologias que uso
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,vscode,windows,linux,github,html">
+</p>
+
+---
+
+### 📈 Estatísticas 
+
+<p align="center">
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeonardoGAndrade223&show_icons=true&theme=tokyonight">
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeonardoGAndrade223&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+### 📫 Contato
+
+<a href="mailto:leogandrade134@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&" target="_blank">
+</a>
